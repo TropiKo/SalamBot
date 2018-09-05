@@ -1,0 +1,12 @@
+# Entry removed Sat Aug 18 17:33:21 2018
+# Reason: ERROR: The uploader has not made this video available in your country.
+https://youtube.com/watch?v=He4YV1uqwfs
+
+################################
+
+# Entry removed Sat Aug 18 17:40:05 2018
+# Reason: ERROR: This video contains content from UMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=hRIXys1xMGc
+
+################################
+
